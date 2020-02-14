@@ -10,4 +10,6 @@ El objetivo de la siguiente asignación la interpretanción gráfica y en cuadro
 
 * Usar la función _barplot_ para gráficar los Ejercicios
 
-!(fig1-1.png)[fig1-1.png]
+![Bartplot][figura1]
+
+[figura1]: fig1-1.png
